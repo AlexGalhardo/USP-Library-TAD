@@ -1,2 +1,5 @@
-# Biblioteca-TAD-em-C
-Trabalho realizado durante o curso de Introdução a Estruturas de Dados I na USP São Carlos.
+### Biblioteca em modo Tipo Abstrado de Dados desenvolvimento em modo Dinâmico e Estático na linguagem C
+
+ - Trabalho desenvolvido pelos alunos Ian Brant e Alex Galhardo durante o curso de Estruturas de Dados I
+ 
+ São Carlos 2017.
