@@ -1,1 +1,1 @@
-### Credits: Alex Galhardo and Ian Brant - São Carlos, Brazil 2017
+### Credits: Alex Galhardo and Ian Brant - São Carlos, Brazil September 2017
