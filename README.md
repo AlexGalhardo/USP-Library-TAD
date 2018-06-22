@@ -1,1 +1,1 @@
-### Credits: Alex Galhardo and Ian Brant - São Carlos, Brazil September 2017
+#### Alex Galhardo & Ian Brant - ICMC USP, São Carlos - BR 2017
